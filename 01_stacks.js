@@ -20,7 +20,7 @@ if(word === rword){
 
 //Create a stack
 class Stack{
-    constructor(count, storage){
+    constructor(){
         this.count = 0;
         this.storage = {};
     }
